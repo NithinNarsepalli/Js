@@ -18,5 +18,8 @@ console.log(num**1);
 console.log(num%1);
 
 //*****************Boolean Datatype*************************
-
+let istrue=true;//assigning  true for the variable 
+console.log(istrue);
+let isfalse=false;//assigning false for the variable
+console.log(isfalse);
 
