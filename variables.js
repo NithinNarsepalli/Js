@@ -4,7 +4,7 @@ var name="nithin";
 var whatDoYouWannaBecomeInYourLife ="programmer";
 //3.create variable name(gender)&store your gender
 var gender="male";
-//4.create variable name (twitterHandle)& stire your twitter handle.
+//4.create variable name (twitterHandle)& store your twitter handle.
 var twitterHandle="@Nithin11";
 console.log(name);
 console.log(whatDoYouWannaBecomeInYourLife);
